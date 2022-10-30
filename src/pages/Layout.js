@@ -29,7 +29,7 @@ const Layout = () => {
       </nav>
 
     <Outlet />
-    <p>The code can be viewed on GitHub <a href="">here</a>.</p>
+    <p>The code can be viewed on GitHub <a href="https://github.com/hillda3141/cs260-creative-3">here</a>.</p>
     </>)
 };
 
